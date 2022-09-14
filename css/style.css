@@ -40,7 +40,7 @@ button {
 }
 
 .site-logo {
-	width: 564px;
+	width: 600px;
 	padding: 65px 0;
 	margin: 140px auto 66px;
 	background-image: url(../img/clock.png);
@@ -157,8 +157,8 @@ footer p {
 /* modal */
 .modal {
 	background-color: #fff;
-	width: 800px;
-	height: 800px;
+	width: 620px;
+	height: 680px;
 	padding: 50px;
 	display: flex;
 	flex-direction: column;
@@ -189,3 +189,11 @@ footer p {
 	left: 0;
   background: rgba(0, 0, 0, 0.5);
 }
+
+
+
+/* @media (max-width: 768px) {
+	.site-logo img {
+		width: 73%;
+	}
+} */
